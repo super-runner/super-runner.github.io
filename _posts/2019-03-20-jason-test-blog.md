@@ -9,7 +9,6 @@ author: Jason Chi
 * content
 {:toc}
 
-
 # Let's share something here
 #### where should I start?
 1. first, focus on your current priority job

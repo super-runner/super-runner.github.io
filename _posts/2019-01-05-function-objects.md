@@ -6,6 +6,11 @@ categories: c++
 tags:  programming
 author: Jason Chi
 ---
+
+* content
+{:toc}
+
+```
 函数对象，就是一个重载了"()"运算符的类的对象，它可以像一个函数一样使用。
 
 STL中提供了一元和二元函数的两种函数对象：(都是模板）
@@ -29,6 +34,6 @@ less, 小于(<)
 less_equal, 小于或等于(<=)
 logical_and, 逻辑与(&&)
 logical_or, 逻辑或(||)
-```
+
 
 ```

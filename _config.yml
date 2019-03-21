@@ -7,7 +7,7 @@
 
 # Site settings
 title: super行者
-brief-intro: C/C++/Python/Linux/SystemAdmin
+brief-intro: C++/Python/Linux
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://super-runner.github.io" # the base hostname & protocol for your site
 
@@ -29,13 +29,13 @@ description_footer: 半缘修道半缘尘
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: Jason
-disqus_shortname: #gaohaoyang
+disqus_shortname: Jason
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 
+baidu_tongji_id:
 google_analytics_id: # google 分析追踪id
 
 # Build settings
@@ -57,6 +57,6 @@ excerpt_separator: "\n\n\n\n"
 
 # paginate
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 6
 port: 4001
 theme: jekyll-theme-slate

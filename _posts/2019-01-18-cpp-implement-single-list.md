@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "C++实现一个单链表"
+title:  "c++实现一个单链表"
 categories: c++
 tags:  programming
 author: Jason Chi
 ---
+* content
+{:toc}
 
 ```
 #include <iostream>

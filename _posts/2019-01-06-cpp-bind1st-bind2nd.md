@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "实现bind1st和bind2nd函数适配器"
+title: "c++实现bind1st和bind2nd函数适配器"
 categories: c++
 tags:  programming
 author: Jason Chi
