@@ -12,7 +12,7 @@ author: Jason Chi
 
 
 
-[转自] (https://blog.csdn.net/ipmux/article/details/45038869)
+[转自这里](https://blog.csdn.net/ipmux/article/details/45038869)
 
 Overload、Override和Overwrite英文接近，比较容易混淆，再加上翻译五花八门，使用时张冠李戴，往往是今天清楚明天糊涂。这三个概念在前面章节已分别讨论，这里再集中比较，以作备忘：
 Overload （重载）

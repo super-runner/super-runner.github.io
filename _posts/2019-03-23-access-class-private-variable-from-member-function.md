@@ -13,7 +13,7 @@ author: Jason Chi
 
 
 
-[转自](https://blog.csdn.net/geophyboy/article/details/14119775)
+[转自此处](https://blog.csdn.net/geophyboy/article/details/14119775)
 
 问题（知识点）描述：
 a． 在C++的类的成员函数中，允许直接访问该类的对象的私有成员变量。

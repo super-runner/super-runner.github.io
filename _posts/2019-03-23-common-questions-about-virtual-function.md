@@ -13,7 +13,7 @@ author: Jason Chi
 
 
 
-引用：https://www.cnblogs.com/burellow/archive/2011/05/25/2056506.html
+[引用此处](https://www.cnblogs.com/burellow/archive/2011/05/25/2056506.html)
 
 1) 虚函数是动态绑定的，也就是说，使用虚函数的指针和引用能够正确找到实际类的对应函数，而不是执行定义类的函数。这是虚函数的基本功能，就不再解释了。
 
