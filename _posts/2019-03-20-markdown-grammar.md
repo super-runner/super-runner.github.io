@@ -113,6 +113,6 @@ author: Jason Chi
 
 ### 播放视频
 <video controls="controls" width="330" height="450">
-  <source type="video/mp4" src="/music/test.mp4"></source>
+  <source type="video/mp4" src="/video/test.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
