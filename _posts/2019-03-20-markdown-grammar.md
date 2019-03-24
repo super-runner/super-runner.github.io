@@ -97,3 +97,8 @@ author: Jason Chi
 ***
 
 `***`
+
+### 播放音乐
+<audio controls="controls">
+  <source src="/music/loveoncealife.mp3"  type="audio/mp3">
+</audio>
