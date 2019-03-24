@@ -99,6 +99,20 @@ author: Jason Chi
 `***`
 
 ### 播放音乐
+**一生所爱(卢冠廷 / 莫文蔚)**
 <audio controls="controls">
-  <source src="/music/loveoncealife.mp3"  type="audio/mp3">
+  <source src="/music/love_once_a_life_male.mp3"  type="audio/mp3">
+  <p>Your browser does not support the audio elemnt.</p>
 </audio>
+
+**一生所爱(舒齐)**
+<audio controls="controls">
+  <source src="/music/love_once_a_life_female.mp3"  type="audio/mp3">
+  <p>Your browser does not support the audio elemnt.</p>
+</audio>
+
+### 播放视频
+<video controls="controls" width="330" height="450">
+  <source type="video/mp4" src="/music/test.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>

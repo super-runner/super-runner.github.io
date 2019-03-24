@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username:
 dribbble_username:
 
-description_footer: 半缘修道半缘尘
+description_footer: 半缘修道半缘心
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -44,9 +44,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-# port
-# port: 1234
 
 # url
 category_dir: category/
