@@ -98,3 +98,7 @@ map与hashmap的区别
 1.map底层数据结构是红黑树；hashmap底层数据结构是hash table
 2.map优点是自动排序；hashmap优点是各项操作的平均时间复杂度接近常数
 3.map是C++ STL一部分，而hashmap则还不是
+
+
+sizeof:
+是编译时运算符，编译时就确定了是编译时运算符，编译时就确定了
