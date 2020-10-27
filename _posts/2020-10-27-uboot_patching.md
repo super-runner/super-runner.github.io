@@ -9,9 +9,7 @@ author: Jason Chi
 * content
 {:toc}
 
-
-#### 分析解释
-
+```
 1、下载、建立source insight工程、编译、烧写、如果无运行分析原因
 tar xjf u-boot-2012.04.01.tar.bz2
 cd u-boot-2012.04.01
@@ -1644,3 +1642,4 @@ diff -urN u-boot-2012.04.01/include/configs/smdk2440.h u-boot-2012.04.01_100ask/
 +#define CONFIG_BOARD_EARLY_INIT_F
 +
 +#endif /* __CONFIG_H */
+```
